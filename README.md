@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio del modulo  del prepcourse de henry
+Este es un proyecto de prueba de un repositor de git 
